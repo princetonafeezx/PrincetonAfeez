@@ -22,10 +22,6 @@
 - 😄 Pronouns: Chocolate Thunder
 - ⚡ Fun fact: I'm building CLI utilities to learn Data Integrity & Validation. Have a look at my projects
 
-### 📂 Featured Projects
-
-| Project | Description | Tech |
-| :--- | :--- | :--- |
 # 🚀 30 Days, 30 Apps: The Mega-App Architecture
 > **April Launch Pad:** Building 4 Enterprise Systems through 30 standalone modules.
 
