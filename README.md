@@ -26,14 +26,31 @@
 
 | Project | Description | Tech |
 | :--- | :--- | :--- |
-| **[HospitalityOS](https://github.com/PrincetonAfeez/HospitalityOS)** | **Highest Complexity:** A full-scale ERP for hotels/restaurants featuring reservation logic, POS integration, and operational workflows. | Python, SQL |
-| **[Converter](https://github.com/PrincetonAfeez/Converter)** | **System Architecture:** A high-integrity CSV-to-JSON engine featuring RegEx type inference, automated header sanitization, and O(1) memory complexity via generators. | Python, Click, Pytest |
-| **[Log-Parser](https://github.com/PrincetonAfeez/File-Log-Parser) 🛡️** | **Data Integrity:** Enterprise CLI tool focused on regex hardening, automated security auditing (404 bot detection), and 100% test coverage. | Click, Rich, Pytest, YAML |
-| **[Password-Strength](https://github.com/PrincetonAfeez/Password-Strength)** | **System Architecture:** A modular security tool using Shannon Entropy and HIBP API integration to audit password integrity. | API, JSON, Security Logic |
-| **[Plate-Validator](https://github.com/PrincetonAfeez/Plate-Validator)** | **System Logic:** Multi-region validation engine with leetspeak normalization, fuzzy-match correction, and bulk CSV processing. | RegEx, JSON, Data Validation |
-| **[Scrubber](https://github.com/PrincetonAfeez/scrubber)** | **Data Integrity:** A specialized utility for sanitizing and standardizing large datasets of sensitive contact information. | Regex, Data Cleaning |
-| **[Task-Manager](https://github.com/PrincetonAfeez/Task-Manager)** | **CRUD Fundamentals:** A persistent task tracking system focused on local data storage, state management, and JSON serialization. | JSON, File I/O |
-| **[Calculator](https://github.com/PrincetonAfeez/Calculator)** | **Foundational:** A clean implementation of mathematical logic (BODMAS) and basic user interface design. | Algorithms, UI Logic |
+# 🚀 30 Days, 30 Apps: The Mega-App Architecture
+> **April Launch Pad:** Building 4 Enterprise Systems through 30 standalone modules.
+
+This month, I am engineering four cohesive systems. Each day, I ship a standalone application that functions as a critical module within a weekly **Mega-App**.
+
+---
+
+## 🛠️ Current Progress: Week 1 - DataGuard
+**Pillar:** Data Integrity & Validation (RegEx, Error Handling, Cleansing)
+**Goal:** A unified CLI pipeline that auto-detects, cleanses, and validates messy real-world data.
+
+| Day | Module / App | Description | Key Tech | Status |
+| :--- | :--- | :--- | :--- | :---: |
+| **01** | **Core Sanitizer** | Foundation layer: strips ANSI, control chars, and Unicode garbage. | `re.sub()`, Encodings | ✅ |
+| **02** | **Contact Scrubber** | Extracts E.164 phones & RFC 5322 emails into clean CSVs. | RegEx, CSV Buffer | ✅ |
+| **03** | **Password Auditor** | Entropy-based scoring & keyboard pattern detection. | Math, Pattern Logic | 🏗️ |
+| **04** | **Log Forensics** | High-speed Apache/Nginx log parser with error categorization. | Named Capture Groups | ⏳ |
+| **05** | **CSV Doctor** | Diagnoses & repairs broken delimiters/missing headers. | Type Inference, JSON | ⏳ |
+| **06** | **HTML Decontaminator** | XSS prevention & safe-tag allowlisting. | Recursive Stripping | ⏳ |
+| **07** | **DataGuard CLI** | **Integration Day:** The unified pipeline & auto-detection engine. | `argparse`, Sys Pipes | ⏳ |
+
+## 📈 Challenge Stats
+- **Total Modules:** 0 / 30
+- **Systems Completed:** 0 / 4
+- **Current Sprint:** `dataguard/sanitizer.py`
 
 ### 📊 GitHub Stats
 <div align="center">
