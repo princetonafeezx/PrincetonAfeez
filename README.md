@@ -9,7 +9,7 @@
 * ✅ **Harvard CS50P** – Computer Science for Python
 * ✅ **FreeCodeCamp** – Scientific Computing with Python
 * ✅ **W3Schools** – Python Certified Developer
-* 🌱 *Currently Learning:* CS50 SQL & System Design Patterns
+* 🌱 *Currently Learning:* CS50 SQL & Database
 
 ## 🚀 30 Days, 30 Apps: The Mega-App Architecture
 I am engineering four cohesive systems by shipping a standalone module every day.
