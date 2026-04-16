@@ -1,18 +1,19 @@
 # Hi, I'm Princeton Afeez 👋
-## Aspiring System Architect | Python Engineer | Data Integrity Enthusiast
+### Aspiring System Architect | Python Engineer | Data Integrity Enthusiast
 
 ![Banner](https://github.com/princetonafeezx/path-to-your-banner.png)
 
 ## 🎓 Education & Certifications
 *Completed the foundational trifecta of modern computer science and Python programming:*
+- ✅ **Harvard CS50P** – Computer Science for Python
+- ✅ **FreeCodeCamp** – Scientific Computing with Python
+- ✅ **W3Schools** – Python Certified Developer
+- 🌱 *Currently Learning:* **CS50 SQL** (Database Management)
 
-* ✅ **Harvard CS50P** – Computer Science for Python
-* ✅ **FreeCodeCamp** – Scientific Computing with Python
-* ✅ **W3Schools** – Python Certified Developer
-* 🌱 *Currently Learning:* CS50 SQL & Database
+---
 
 ## 🚀 30 Days, 30 Apps: The Mega-App Architecture
-I am engineering four cohesive systems by shipping a standalone module every day.
+I am engineering four cohesive systems by shipping a standalone module every day. 
 **Current Track:** #30Days30Apps | #100DaysOfCode | #365DaysOfCode
 
 ---
@@ -32,7 +33,7 @@ I am engineering four cohesive systems by shipping a standalone module every day
 
 ---
 
-## 🏗️ In Development: Week 2 — LedgerLogic 📊
+## ✅ Completed System: Week 2 — LedgerLogic 📊
 *A CLI Financial Analytics Engine focused on Logic & Algorithms.*
 
 | Day | Module | Focus | Status |
@@ -41,25 +42,39 @@ I am engineering four cohesive systems by shipping a standalone module every day
 | 09 | **Change Calculator** | Greedy algorithm for optimal currency breakdown. | ✅ |
 | 10 | **Interest Projector** | Compound growth modeling with inflation adjust. | ✅ |
 | 11 | **Expense Classifier** | Rule engine with fuzzy matching for categories. | ✅ |
-| 12 | **Account Reconciler** | Set theory for finding data discrepancies. | 🏗️ *In Progress* |
-| 13 | **Pattern Detector** | Anomaly detection and spending analytics. | ⏳ |
-| 14 | **Dashboard** | **Integration:** The Financial Command Center. | ⏳ |
+| 12 | **Account Reconciler** | Set theory for finding data discrepancies. | ✅ |
+| 13 | **Pattern Detector** | Anomaly detection and spending analytics. | ✅ |
+| 14 | **Dashboard** | **Integration:** The Financial Command Center. | ✅ |
+
+---
+
+## 🏗️ In Development: Week 3 — Vault OS 🏛️
+*A class-based OOP simulation of a secure facility (Museum/Data Center/Bank).*
+
+| Day | Module | Focus | Status |
+| :--- | :--- | :--- | :--- |
+| 15 | **Devices** | Base Device interface with specialized subclasses. | ✅ |
+| 16 | **Access** | RBAC system with AccessLevel Enums & Keycard state. | 🏗️ *In Progress* |
+| 17 | **Vault** | Custody tracking with immutable audit records. | ⏳ |
+| 18 | **Personnel** | Site presence tracking for employees & contractors. | ⏳ |
+| 19 | **Events** | Pub-Sub system for device-to-handler messaging. | ⏳ |
+| 20 | **Invites** | State machine for one-time access code lifecycles. | ⏳ |
+| 21 | **VaultOS** | **Integration:** Full facility simulation wire-up. | ⏳ |
 
 ---
 
 ## 🗺️ System Architect Roadmap (2026 - 2027)
-
 - [x] **Phase 1: Foundations** - Master Python Fundamentals (CS50P, FCC, W3S)
-    - **Current Sprint:** #30Days30Apps (Building Modular Logic)
+- **Current Sprint:** #30Days30Apps (Building Modular Logic)
 - [ ] **Phase 2: Data & Backend (Months 4-6)**
-    - Deep dive into SQL (CS50 SQL) & NoSQL schema design.
-    - Implementation of Design Patterns (Factory, Singleton, Observer).
+  - Deep dive into SQL (CS50 SQL) & NoSQL schema design.
+  - Implementation of Design Patterns (Factory, Singleton, Observer).
 - [ ] **Phase 3: Infrastructure & Scalability (Months 7-9)**
-    - Linux SysAdmin & Docker Containerization.
-    - Introduction to Cloud Architecture (AWS/Azure).
+  - Linux SysAdmin & Docker Containerization.
+  - Introduction to Cloud Architecture (AWS/Azure).
 - [ ] **Phase 4: High-Level Design (Months 10-12)**
-    - CAP Theorem, Load Balancing, and Microservices.
-    - *Capstone:* Scaling **HospitalityOS** to a distributed system.
+  - CAP Theorem, Load Balancing, and Microservices.
+  - *Capstone:* Scaling **HospitalityOS** to a distributed system.
 
 ---
 
