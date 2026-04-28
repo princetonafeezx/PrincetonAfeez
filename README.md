@@ -1,7 +1,7 @@
 # Hi, I'm Princeton Afeez 👋
 ### Aspiring System Architect | Python Engineer | Data Integrity Enthusiast
 
-![Banner](https://github.com/princetonafeezx/path-to-your-banner.png)
+![Banner](https://github.com/princetonafeez/path-to-your-banner.png)
 
 ## 🎓 Education & Certifications
 *Completed the foundational trifecta of modern computer science and Python programming:*
@@ -79,5 +79,5 @@ I am engineering four cohesive systems by shipping a standalone module every day
 ---
 
 ## 📊 Connection & Stats
-[LinkedIn](your-link) | [Twitter](your-link) 
+[LinkedIn](https://www.linkedin.com/in/princetonai/) | [Twitter](https://x.com/PrincetonAfeez) 
 *Pronouns: Chocolate Thunder* ⚡
