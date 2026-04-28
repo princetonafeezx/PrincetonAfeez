@@ -35,12 +35,6 @@ I am engineering cohesive systems by shipping modular components daily.
 - 🌱 **Relational Database Certification** – In Progress (FreeCodeCamp)
 - 🏗️ **Database Migration:** Moving LedgerLogic and SysForge states to PostgreSQL/SQLite.
 
-## 🗺️ System Architect Roadmap (Updated 2026)
-- [x] **Phase 1: Foundations** - (CS50P, FCC Python, W3S) - *Completed in 25 Days*
-- [x] **Phase 2: Logic Aggregation** - Building the 4 Mega-Apps.
-- [➡️] **Phase 3: The Data Layer (Current)** - Mastering SQL, Schema Design, and ACID compliance.
-- [ ] **Phase 4: Scalability & Web** - Django + HTMX, Docker, and Cloud Infrastructure.
-
 ---
 
 ## 🗺️ System Architect Roadmap (2026 - 2027)
